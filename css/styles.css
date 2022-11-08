@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(216, 212, 231);
+}
+
+hr {
+    border-style: none;
+    border-top: dotted;
+    border-color: rgb(0, 0, 0);
+    border-width: 5px;
+    width: 10%;
+
+}
+
+h1 {
+    color: #66bfbf;
+    font-style: oblique;
+}
+
+h3 {
+    color: #66bfbf;
+}
